@@ -1,0 +1,4 @@
+# Ignore everything by default - use add -f to force add
+.DS_Store
+*/.DS_Store
+**/.DS_Store
